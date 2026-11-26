@@ -1,0 +1,25 @@
+{
+  "name": "Sistema de Registro VCXC",
+  "short_name": "Registro VCXC",
+  "description": "Formulario Institucional Offline Casa por Casa",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#66001c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "img/SIN-FONDO.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/SIN-FONDO.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
